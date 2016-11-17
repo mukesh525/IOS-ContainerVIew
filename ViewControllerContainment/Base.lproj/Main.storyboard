@@ -25,11 +25,11 @@
                     <navigationItem key="navigationItem" id="aKK-bO-htk">
                         <nil key="title"/>
                         <segmentedControl key="titleView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="bar" selectedSegmentIndex="0" id="nBN-sT-yF9">
-                            <rect key="frame" x="67.5" y="7" width="240" height="30"/>
+                            <rect key="frame" x="8" y="7" width="359" height="30"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <segments>
                                 <segment title="First"/>
-                                <segment title="Second"/>
+                                <segment title="Track"/>
                             </segments>
                         </segmentedControl>
                     </navigationItem>
